@@ -1,0 +1,2 @@
+obj\Debug\net6.0-windows\Protos/Reverser.cs \
+obj\Debug\net6.0-windows\Protos/ReverserGrpc.cs: Protos/reverser.proto
